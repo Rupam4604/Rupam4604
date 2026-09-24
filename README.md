@@ -60,8 +60,8 @@ I enjoy learning by building projects and continuously improving my programming,
 - VS Code
 - Arduino IDE
 - STM32CubeIDE
-- KiCad
-- Linux
+  
+  
 
 ---
 
