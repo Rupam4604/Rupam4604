@@ -104,7 +104,11 @@ Projects developed during my Oasis Infobyte internship.
 ```text
 C Programming
       ↓
+Python
+      ↓
 Embedded C
+      ↓
+C++
       ↓
 Microcontrollers
       ↓
@@ -117,9 +121,6 @@ Embedded Drivers
 RTOS
       ↓
 PCB Design
-      ↓
-C++
-      ↓
-Python
-      ↓
-Robotics / ROS 2
+
+
+      
